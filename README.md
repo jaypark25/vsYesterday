@@ -2,7 +2,7 @@
 
 
 
-## CPSC210 Assignment Phase 0 ##
+## CPSC210 ##
 
 ***What will the application do?***
 
@@ -44,7 +44,7 @@ habits, but struggled to keep a  consistent schedule and tracking.
 - As a user, I want to be able to reload my habit list from my saved files
 - As a user, I want to be able to add multiple Habits to a HabitList.
 - 
-# Instructions for Grader
+# User Instruction
 
 - You can generate the first required action related to adding Xs to a Y by going to Edit, Create a new Habit, enter a 
 - name of habit. Then, back in the main menu, you can click "Record Day", where you can check off each habit.
