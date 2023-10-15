@@ -1,0 +1,12 @@
+{"habitList": [
+    {
+        "name": "ch",
+        "history": ["true"],
+        "category": "check"
+    },
+    {
+        "name": "pr",
+        "history": ["12"],
+        "category": "pr"
+    }
+]}

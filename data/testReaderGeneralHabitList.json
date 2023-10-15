@@ -1,0 +1,14 @@
+{
+    "habitList": [
+        {
+            "name": "drink water",
+            "category": "check",
+            "history": []
+        },
+        {
+            "name": "read",
+            "category": "pr",
+            "history": []
+        }
+    ]
+}
